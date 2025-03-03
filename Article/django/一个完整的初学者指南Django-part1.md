@@ -24,11 +24,13 @@
 
 我想通过孔夫子的名言来开始我们的课程：
 
-> 我听见了，我就忘了
-> 
-> 我看见了，我就记得了
-> 
-> 我去做了，我就理解了
+>不闻不若闻之
+>
+>闻之不若见之
+>
+>见之不若知之
+>
+>知之不若行之。
 
 ![孔子名言](https://simpleisbetterthancomplex.com/media/series/beginners-guide/1.11/part-1/Pixton_Comic_Confucius_Quote.png)
 
