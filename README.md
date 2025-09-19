@@ -1,3 +1,4 @@
+<img src="https://github.com/soaibaidu/MISSAV5/blob/master/107.png" alt="image" style="max-width: 100%;">
 IT 行业相对于一般传统行业，发展更新速度更快，一旦停止了学习，很快就会被行业所淘汰，但是，我们要清楚：淘汰的永远只是那些初级水平的从业者，过硬技术的从业者永远都是稀缺的。因此对于学习，我们还是要踏踏实实的。
 
 
